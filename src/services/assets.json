@@ -75,21 +75,21 @@
       ]
     },
     {
-      "package": "ali-lowcode-components",
-      "version": "0.1.1",
+      "package": "ali-components",
+      "version": "0.1.0",
       "library": "BizComps",
       "urls": [
-        "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/render/default/view.js",
-        "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/render/default/view.css"
+        "https://unpkg.com/ali-components@0.1.0/build/lowcode/render/default/view.js",
+        "https://unpkg.com/ali-components@0.1.0/build/lowcode/render/default/view.css"
       ],
       "editUrls": [
-        "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/view.js",
-        "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/view.css"
+        "https://unpkg.com/ali-components@0.1.0/build/lowcode/view.js",
+        "https://unpkg.com/ali-components@0.1.0/build/lowcode/view.css"
       ],
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/render/default/view.js",
-          "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/render/default/view.css"
+          "https://unpkg.com/ali-components@0.1.0/build/lowcode/render/default/view.js",
+          "https://unpkg.com/ali-components@0.1.0/build/lowcode/render/default/view.css"
         ]
       },
       "advancedEditUrls": {}
@@ -130,18 +130,18 @@
       }
     },
     {
-      "exportName": "AliLowcodeComponentsMeta",
+      "exportName": "AliComponentsMeta",
       "npm": {
-        "package": "ali-lowcode-components",
-        "version": "0.1.1"
+        "package": "ali-components",
+        "version": "0.1.0"
       },
-      "url": "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/meta.js",
+      "url": "https://unpkg.com/ali-components@0.1.0/build/lowcode/meta.js",
       "urls": {
-        "default": "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/meta.js"
+        "default": "https://unpkg.com/ali-components@0.1.0/build/lowcode/meta.js"
       },
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/ali-lowcode-components@0.1.1/build/lowcode/meta.js"
+          "https://unpkg.com/ali-components@0.1.0/build/lowcode/meta.js"
         ]
       }
     }
